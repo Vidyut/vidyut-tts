@@ -6,7 +6,7 @@ There are just two files as of now and I don't expect that to change. You can du
 
 `pip install TTS streamlit`
 
-If you want to use Coqui Studio Voice, you'll need to get an api key from your account page https://app.coqui.ai/account (scroll down) and insert the key at the top of the app.py file.
+If you want to use Coqui Studio Voice, you'll need to get an api key from your account page https://app.coqui.ai/account (scroll down) and insert the key online 18 of the app.py file and uncomment both line 17 and 18. It is better to set it as an environmental variable. This is just provided in case you don't know how to do that.
 
 Then run
 
@@ -20,4 +20,4 @@ I did this to save me effort and shared it in case anyone else had the same prob
 
 Lastly, there are many features not implemented. This is just English for now (though no reason why it shouldn't work with other models - I just didn't have time to test, or interest since I was using only English. I could add other features. FreeVC isn't yet implemented. I don't need it, and I don't know if this code will be useful to anyone else, so didn't seem to be a point investing the effort. I can add if needed.
 
-Totally lastly, I'm a single mom with a disabled child, so life is expensive and usually broke and going out to work isn't an option. If you find this useful, do consider buying me a coffee and it will motivate me to spend time furthering this rather than other food on table stuff not related to coding.
+Totally lastly, I'm a single mom with a disabled child, so life is expensive and usually broke and going out to work isn't an option. If you find this useful, do consider buying me a coffee and it will motivate me to spend time furthering this rather than other food-on-table stuff not related to coding or sci-fi writing.
